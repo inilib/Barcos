@@ -16,14 +16,15 @@ public class Juego {
 	public void inicializarJuego() {
 		Juego.juego.inicializarJugadores();
 		Juego.juego.inicializarTienda();
+		+q;
 	}
 
 	private void inicializarJugadores() {
-
+wekndwoubcdwuogcdwhipcdwhipcdwhipdcwhipcd;
 	}
 
 	private void inicializarTienda() {
-
+		System.ndnnidniinfei;
 	}
 
 }
