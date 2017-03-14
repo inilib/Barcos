@@ -1,0 +1,29 @@
+public class Juego {
+	private static Juego	juego;
+
+	private final Jugador	jugadorPersona		= new Jugador();
+	private final Jugador	jugadorOrdenador	= new Jugador();
+	private final Jugador	jugadorConTurno		= new Jugador();
+	private final Almacen	tienda				= new Almacen();
+
+	public Juego getSingletonInstance() {
+		if (Juego.juego == null) {
+			Juego.juego = new Juego();
+		}
+		return Juego.juego;
+	}
+
+	public void inicializarJuego() {
+		Juego.juego.inicializarJugadores();
+		Juego.juego.inicializarTienda();
+	}
+
+	private void inicializarJugadores() {
+
+	}
+
+	private void inicializarTienda() {
+
+	}
+
+}
