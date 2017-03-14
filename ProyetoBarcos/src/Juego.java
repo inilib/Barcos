@@ -18,6 +18,8 @@ public class Juego {
 		Juego.juego.inicializarTienda();
 		+q;
 		dfbbffdbfhs;
+		ihoguougvhkvvvou
+		hkclhvjlhvlhlhjv
 	}
 
 	private void inicializarJugadores() {
