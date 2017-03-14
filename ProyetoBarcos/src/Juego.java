@@ -17,6 +17,7 @@ public class Juego {
 		Juego.juego.inicializarJugadores();
 		Juego.juego.inicializarTienda();
 		+q;
+		dfbbffdbfhs;
 	}
 
 	private void inicializarJugadores() {
