@@ -16,6 +16,7 @@ public class Juego {
 	public void inicializarJuego() {
 		Juego.juego.inicializarJugadores();
 		Juego.juego.inicializarTienda();
+		jokin es gay;
 		+q;
 		dfbbffdbfhs;
 		ihoguougvhkvvvou
